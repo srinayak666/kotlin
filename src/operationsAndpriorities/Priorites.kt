@@ -14,5 +14,6 @@ Priorities of operators:
     var n3:Int=10
     var sum:Int?
     sum=n1+n2*n3/3 //based on priority : n2*n3 = 100 -> n2*n3's result /3 =>33 (since its declared as Int) -> n1+33=43 is the sum
+    //we can use ( ) to separate the variables
     println("Sum is:$sum")
 }
