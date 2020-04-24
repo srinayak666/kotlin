@@ -35,4 +35,16 @@ fun main(args:Array<String>){
     println("&& Logical symbol->"+(x<y && w<z))
 
 
+
+    /*
+    OUTPUT:
+    > Logical symbol->false
+    < Logical symbol->true
+    == Logical symbol->false
+    != Logical symbol->true
+    ! Logical symbol->false
+    || Logical symbol->true
+    && Logical symbol->false
+     */
+
 }
