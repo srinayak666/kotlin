@@ -20,6 +20,12 @@ fun main(args:Array<String>){
 
     }
 
+    var age=30
+    var isYoung=when(age){
+        30 -> true
+        else -> false
+    }
+    println("Is young:$isYoung")
 
 
 
