@@ -16,4 +16,9 @@ fun main(args:Array<String>){
         println("x is lesser than y")
     }
 
+    /*
+    if else in a single line
+     */
+    var max=if(x>y) x else y
+    println("MAX:"+max)
 }
