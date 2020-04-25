@@ -10,7 +10,7 @@ Index of the course as follows:<br />
 4)VarAndVal.kt<br />
 5)NullSafety.kt<br />
 <br />
-package: operationsAndpriorities<br />
+package: <b> operationsAndpriorities </b><br />
 1)MathOperations.kt<br />
 2)Priorites.kt<br />
 3)ConvertBetweenDataTypes.kt<br />
