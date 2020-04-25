@@ -10,4 +10,13 @@ fun main(args:Array<String>){
     for(i in -2..5){
         println("Hello From For Loop $i")
     }
+
+    /*Nested For loop*/
+    for(i in 1..5){
+        println("Outer FOR loop:$i")
+        for(i in 1..3){ // here i is specified as another variable inside inner for loop (not same as outer for loop 'i')
+            println("Inner FOR Loop:$i")
+        }
+        println("Inner For loop Done!")
+    }
 }
