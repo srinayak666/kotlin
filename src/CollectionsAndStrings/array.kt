@@ -6,8 +6,15 @@ fun main(args: Array<String>){
     var arrayInt=Array<Int>(5){100}
     var arraySTr=Array<String>(3){"---"} //setting initial values to array
     for(strI in 0..arraySTr.size-1){
+        println("Enter value for index: $strI")
+        arraySTr[strI]= readLine()!!.toString()
+    }
+    for(strI in 0..arraySTr.size-1){
         println("STring value at index: $strI"+arraySTr[strI])
     }
+
+
+
 
 var i=0
 
