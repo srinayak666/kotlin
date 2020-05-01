@@ -26,4 +26,5 @@ package: loops
 
 package: CollectionsAndStrings
 1)strings.kt
+2)array.kt
 
