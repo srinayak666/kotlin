@@ -25,4 +25,5 @@ package: loops
 4)ControlLoop.kt
 
 package: CollectionsAndStrings
+1)strings.kt
 
