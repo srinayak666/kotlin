@@ -28,5 +28,7 @@ package: CollectionsAndStrings
 1)strings.kt
 2)array.kt
 3)ArrayListDemo.kt
+4)HashMapDemo.kt
+
 
 
