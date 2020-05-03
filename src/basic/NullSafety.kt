@@ -1,3 +1,5 @@
+package basic
+
 fun main(args:Array<String>){
 
     var name:String="newString"
@@ -11,7 +13,7 @@ fun main(args:Array<String>){
 
     var data:String?
     data=null
-    //println(data!!) //Exception in thread "main" kotlin.KotlinNullPointerException
+    //println(data!!) //Exception in thread "basic.basic.main" kotlin.KotlinNullPointerException
     data="data"
     println(data!!) //!! this variable data should have to have a value;
 }

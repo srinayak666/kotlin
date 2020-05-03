@@ -10,7 +10,7 @@ fun main(args:Array<String>){
 
 
     var arr= arrayOf(1,2,3,4,5,6)
-    //arr[9]=44 Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 9
+    //arr[9]=44 Exception in thread "basic.basic.main" java.lang.ArrayIndexOutOfBoundsException: 9
     arr[2]=99
     println(arr[2])
 

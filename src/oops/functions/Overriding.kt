@@ -39,7 +39,7 @@ fun main(array: Array<String>){
 
     /*
      var cc2=ParentClass() as ChildClass
-        Exception in thread "main" java.lang.ClassCastException: oops.ParentClass cannot be cast to oops.ChildClass
+        Exception in thread "basic.basic.main" java.lang.ClassCastException: oops.ParentClass cannot be cast to oops.ChildClass
 */
 }
 

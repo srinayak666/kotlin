@@ -1,3 +1,5 @@
+package basic
+
 fun main(args:Array<String>){
 
     /*When a variable is declared as var i.e, it can be read and write multiple times.

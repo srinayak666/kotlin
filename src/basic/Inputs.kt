@@ -1,3 +1,5 @@
+package basic
+
 fun main(args:Array<String>){
     /*getting input from console*/
 
