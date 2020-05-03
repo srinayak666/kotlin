@@ -1,7 +1,7 @@
 package oops
 
 
-open class Operations(){ // by default all classes and methods are final to inherit this class we need to make the class modifiable so making it 'open'
+open class Operations(){ // by default all classes  are final to inherit this class we need to make the class modifiable so making it 'open'
     fun add(n1:Int,n2:Int):Int{
         return n1+n2
     }
