@@ -38,6 +38,9 @@ package: oops.functions
 4) GlobalAndLocalVariable.kt
 
 package: oops
+1) SimpleClass.kt
+2) Constructor.kt
+3) Inheritance.kt
 
 
 
