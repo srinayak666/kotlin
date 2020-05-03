@@ -1,5 +1,6 @@
 Index of the course as follows:
 
+package: basic
 1)FirstKotlinApp.kt
 2)DataTypes.kt
 3)Inputs.kt
