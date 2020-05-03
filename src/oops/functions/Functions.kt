@@ -1,9 +1,9 @@
-package oops
+package oops.functions
 
 val x=100 //value once declared can't be changed
 fun main(args:Array<String>){
 
-var sum=sum(10.1,21.2)
+var sum= sum(10.1, 21.2)
     println("sum is: $sum")
     justPrint("Sample Text")
 }

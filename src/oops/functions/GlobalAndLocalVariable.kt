@@ -1,4 +1,4 @@
-package oops
+package oops.functions
  var name:String="Global Variable"
 fun main(args:Array<String>){
 var local_vaiable="Local Variable"

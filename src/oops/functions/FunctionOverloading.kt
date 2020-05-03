@@ -1,10 +1,10 @@
-package oops
+package oops.functions
 
 fun main(args:Array<String>){
 
-    println("Sum with Int's:${sum(10,20)}")
-    println("Sum with Floats's:${sum(10.4,20.3)}")
-    println("Sum with 3 Int's:${sum(10,20,50)}")
+    println("Sum with Int's:${sum(10, 20)}")
+    println("Sum with Floats's:${sum(10.4, 20.3)}")
+    println("Sum with 3 Int's:${sum(10, 20, 50)}")
 }
 
 

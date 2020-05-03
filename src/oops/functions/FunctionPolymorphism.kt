@@ -1,4 +1,4 @@
-package oops
+package oops.functions
 
 fun main(args:Array<String>){
     display("Hello")

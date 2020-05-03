@@ -31,10 +31,13 @@ package: CollectionsAndStrings
 4)HashMapDemo.kt
 5)KotlinCollectionOperations.kt
 
-package: oops
+package: oops.functions
 1) Functions.kt
 2) FunctionOverloading.kt
 3) FunctionPolymorphism.kt
 4) GlobalAndLocalVariable.kt
+
+package: oops
+
 
 
